@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/actor</item>
+        <item>@font/aladin</item>
+        <item>@font/alex_brush</item>
+        <item>@font/allan</item>
+        <item>@font/bangers</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/charm</item>
+        <item>@font/crushed</item>
+        <item>@font/delius_swash_caps</item>
+        <item>@font/eagle_lake</item>
+        <item>@font/jim_nightshade</item>
+    </array>
+</resources>
